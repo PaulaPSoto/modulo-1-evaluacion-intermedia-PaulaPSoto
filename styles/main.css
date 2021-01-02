@@ -12,7 +12,10 @@
     justify-content: center;
     align-items: center;
 }
-.menu2 {
+.menu {
+    padding: 0;
+}
+.menu-item {
     list-style-type: none;
     font-size: 16px;
     display: inline-block;
